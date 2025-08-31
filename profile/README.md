@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![CLayer Logo]<img width="2000" height="2000" alt="C-LAYER_Black-Fonts_Sample2" src="https://github.com/user-attachments/assets/4771c952-764f-472e-9141-ffb33fc3932b" />
-
+![CLayer Logo](https://github.com/user-attachments/assets/4771c952-764f-472e-9141-ffb33fc3932b)
 
 CLayer is a high-performance, EVM-compatible blockchain designed for scalability and efficiency. This account is part of the [CLayer Organization](https://github.com/CLayer).
 
